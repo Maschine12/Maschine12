@@ -17,78 +17,78 @@
 
 ## 🚀 Tech Stack
 
-<table width="100%">
-  <tr>
+<div align="center">
 
-    <!-- Lenguajes -->
-    <td width="33%" valign="top" style="background:linear-gradient(135deg,#1f2933,#111827); border-radius:12px; padding:15px;">
-      <h3 align="center">💻 Lenguajes</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-      </p>
-    </td>
+<!-- Row 1 -->
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
 
-    <!-- Frameworks -->
-    <td width="33%" valign="top" style="background:linear-gradient(135deg,#312e81,#1e1b4b); border-radius:12px; padding:15px;">
-      <h3 align="center">⚙️ Frameworks</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-      </p>
-    </td>
+<div style="background:#0f172a; border-radius:12px; padding:16px; width:220px;">
+<h3>💻 Lenguajes</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36"/>
+</p>
+</div>
 
-    <!-- Databases -->
-    <td width="33%" valign="top" style="background:linear-gradient(135deg,#064e3b,#022c22); border-radius:12px; padding:15px;">
-      <h3 align="center">🗄️ Bases de Datos</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-      </p>
-    </td>
+<div style="background:#1e1b4b; border-radius:12px; padding:16px; width:220px;">
+<h3>⚙️ Frameworks</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36"/>
+</p>
+</div>
 
-  </tr>
+<div style="background:#022c22; border-radius:12px; padding:16px; width:220px;">
+<h3>🗄️ Bases de Datos</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="36"/>
+</p>
+</div>
 
-  <tr>
+</div>
 
-    <!-- APIs -->
-    <td valign="top" style="background:linear-gradient(135deg,#7c2d12,#431407); border-radius:12px; padding:15px;">
-      <h3 align="center">🔗 APIs & Real-time</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40"/>
-      </p>
-    </td>
+<br/>
 
-    <!-- Mobile -->
-    <td valign="top" style="background:linear-gradient(135deg,#3730a3,#1e1b4b); border-radius:12px; padding:15px;">
-      <h3 align="center">📱 Mobile</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
-      </p>
-    </td>
+<!-- Row 2 -->
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
 
-    <!-- Infra -->
-    <td valign="top" style="background:linear-gradient(135deg,#0f172a,#020617); border-radius:12px; padding:15px;">
-      <h3 align="center">☁️ Infraestructura</h3>
-      <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-      </p>
-    </td>
+<div style="background:#431407; border-radius:12px; padding:16px; width:220px;">
+<h3>🔗 APIs</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="36"/>
+</p>
+</div>
 
-  </tr>
-</table>
+<div style="background:#1e293b; border-radius:12px; padding:16px; width:220px;">
+<h3>📱 Mobile</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="36"/>
+</p>
+</div>
+
+<div style="background:#020617; border-radius:12px; padding:16px; width:220px;">
+<h3>☁️ Infra</h3>
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
+</p>
+</div>
+
+</div>
+
+</div>
+
 
 ---
 

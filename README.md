@@ -108,7 +108,7 @@
 ### 🧩 ORM
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/typeorm/FF8700" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
 
 **GORM • TypeORM • Prisma**
@@ -133,8 +133,10 @@
 ### 🔐 Security
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"/>
 
-**Linux • Pentesting • Networking • Security Research**
+**Parrot OS • Ubuntu • Kali Linux • Arch Linux**
 
 </td>
 

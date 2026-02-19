@@ -40,6 +40,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
 
 </td>
 
@@ -50,6 +51,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40"/>
 
 </td>
 
@@ -57,7 +61,7 @@
 
 <tr>
 
-<td valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🔗 APIs & Comunicación
 
@@ -69,7 +73,7 @@
 
 </td>
 
-<td valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### 🗄️ Bases de Datos
 
@@ -81,7 +85,7 @@
 
 </td>
 
-<td valign="top" align="center">
+<td width="33%" valign="top" align="center">
 
 ### ☁️ Infraestructura
 
@@ -92,6 +96,45 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
 
 **VPS • Linux Server • CI/CD**
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top" align="center">
+
+### 🧩 ORM
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typeorm/typeorm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40"/>
+
+**GORM • TypeORM • Prisma**
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 📱 Mobile Development
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/>
+
+**React Native • Flutter • Android • Kotlin**
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### 🔐 Security
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+
+**Linux • Pentesting • Networking • Security Research**
 
 </td>
 

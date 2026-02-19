@@ -132,8 +132,9 @@
 
 ### 🔐 Security
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/>
+<img src="https://cdn.simpleicons.org/parrotsecurity/1F8ACB" width="40"/>
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="40"/>
+<img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="40"/>
 
 **Parrot OS • Ubuntu • Kali Linux • Arch Linux**

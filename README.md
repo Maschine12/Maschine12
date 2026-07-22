@@ -5,6 +5,7 @@
       <p>
         Desarrollador full-stack con enfoque en <strong>backend, infraestructura y bases de datos</strong>. 
         Apoyo a startups construyendo sistemas escalables y soluciones técnicas robustas.
+        Encantado de trabajar en nuevos retos y comunidad cloud.
       </p>
     </td>
     <td width="50%" align="center">

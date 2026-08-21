@@ -26,63 +26,67 @@
 
 ---
 
-### 🛸 `// TECH ARSENAL & HERRAMIENTAS`
+### 🛸 `// TECH ARSENAL & SKILLS MATRIX`
 
 <div align="center">
 
+<!-- Lenguajes Principales -->
 <p align="center">
-  <b>🔥 Core Stack & Lenguajes</b><br/>
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,python,cs,cpp,java,c,bash&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,python,cs,cpp,c,java,bash&perline=10&theme=dark" />
 </p>
 
+<!-- Backend & APIs -->
 <p align="center">
-  <b>⚙️ Backend, Frameworks & APIs</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql,postman&perline=7&theme=dark" /><br/>
-  <img src="https://img.shields.io/badge/Go_Fiber-00ACD7?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go_Gin-0081C9?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ORM-GORM_%7C_Prisma_%7C_TypeORM-7928CA?style=flat-square&logo=prisma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_Client-Bruno_%7C_Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql,postman,prisma&perline=8&theme=dark" />
 </p>
 
+<!-- Frameworks Go, ORMs & Testing con logos oficiales -->
 <p align="center">
-  <b>💻 Entorno de Desarrollo, Terminal & Control de Versiones</b><br/>
-  <img src="https://skillicons.dev/icons?i=vscode,bash,powershell,git,github&perline=5&theme=dark" /><br/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-Bash_%7C_Nano_%7C_Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Version_Control-Git_%26_GitHub_Manejo-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storage-FileServer_%7C_FTP_%7C_SFTP-FFB800?style=flat-square&logo=serverfault&logoColor=black"/>
+  <a href="#"><img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gin-0081C9?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bruno-F89520?style=for-the-badge&logo=postman&logoColor=white"/></a>
 </p>
 
+<!-- Cloud, Servidores, Linux & Contenedores -->
 <p align="center">
-  <b>☁️ Cloud, Servidores, Docker & Linux</b><br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,linux,ubuntu,kali,arch&perline=7&theme=dark" /><br/>
-  <img src="https://img.shields.io/badge/Servidores-Linux_VPS_%7C_FileServers_%7C_Nginx-326CE5?style=flat-square&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Contenedores-Docker_%7C_Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,linux,ubuntu,arch,kali,debian,powershell&perline=9&theme=dark" />
 </p>
 
+<!-- Herramientas, Entorno & Storage con Logos -->
 <p align="center">
-  <b>🗄️ Bases de Datos & Almacenamiento</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma&perline=6&theme=dark" />
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash_Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GNU_Nano-000000?style=for-the-badge&logo=gnu&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Flow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/FileServer_FTP-FF8800?style=for-the-badge&logo=serverfault&logoColor=white"/></a>
 </p>
 
+<!-- Bases de Datos & Caché -->
 <p align="center">
-  <b>📱 Mobile & Frontend Ecosystem</b><br/>
-  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap,sass,kotlin,androidstudio,figma&perline=9&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&perline=5&theme=dark" />
+</p>
+
+<!-- Frontend, Mobile & UI -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,react,nextjs,tailwind,bootstrap,sass,figma,vite&perline=10&theme=dark" />
 </p>
 
 </div>
 
 ---
 
-### 💎 `// ESPECIALIDADES & ÁREAS DE ENFOQUE (JUNIOR)`
+### ⚡ `// WORKSPACE & WORKFLOW (100% VISUAL)`
 
 <div align="center">
 
-| 🏗️ **Backend & Go Ecosystem** | 🐙 **Git, GitHub & FileServers** | 💻 **VS Code & Terminal Linux** |
-|:---:|:---:|:---:|
-| Creación de APIs y lógica backend con **Node.js, NestJS, Go (Fiber, Gin, GORM)** y Rust | Control de versiones con **Git & GitHub**, gestión de ramas y configuración de **FileServers (FTP/SFTP)** | Productividad en **VS Code**, automatización en **Bash/Nano** y despliegue con Docker |
-| 🗄️ **Bases de Datos & ORMs** | 📱 **Frontend & Mobile (Flutter)** | 🛡️ **Servidores & Testing de APIs** |
-| Prácticas de modelado SQL/NoSQL con Postgres, Mongo, Prisma y GORM | Interfaces modernas con React, Tailwind y apps móviles con Flutter | Consumo y pruebas de APIs con **Bruno & Postman**, y servidores Linux |
+<p align="center">
+  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Server-Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containers-Docker_K8s-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storage-FileServers_SFTP-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-Go_Fiber_Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black"/>
+</p>
 
 </div>
 

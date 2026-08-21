@@ -5,7 +5,7 @@
 
 <!-- Subtítulo Dinámico Typing SVG -->
 <a href="https://github.com/Maschine12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=🌱+Junior+Full-Stack+%26+Backend+Developer;🚀+Aprendiendo+activamente+Go,+Rust+%26+Cloud+Native;🐙+Manejo+de+Git,+GitHub,+Ramas+%26+FileServers;💻+Construyendo+en+VS+Code+%26+Terminal+Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B1%20Junior%20Full-Stack%20%26%20Backend%20Developer;%F0%9F%9A%80%20Aprendiendo%20activamente%20Go%2C%20Rust%20%26%20Cloud%20Native;%F0%9F%90%99%20Manejo%20de%20Git%2C%20GitHub%2C%20Ramas%20%26%20FileServers;%F0%9F%92%BB%20Construyendo%20en%20VS%20Code%20%26%20Terminal%20Linux" alt="Typing SVG"/>
 </a>
 
 <br/><br/>

@@ -5,7 +5,7 @@
 
 <!-- Subtítulo Dinámico Typing SVG -->
 <a href="https://github.com/Maschine12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=🚀+Senior+Backend+%26+Cloud+Infra+Engineer;⚡+Construyendo+sistemas+distribuidos+de+alta+escala;🛡️+Linux+Kernel,+Seguridad+%26+Automatizaci%C3%B3n;☕+Transformando+desaf%C3%ADos+complejos+en+c%C3%B3digo+limpio" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80%20Senior%20Backend%20%26%20Cloud%20Infra%20Engineer;%E2%9A%A1%20Construyendo%20sistemas%20distribuidos%20de%20alta%20escala;%F0%9F%9B%A1%EF%B8%8F%20Linux%20Kernel%2C%20Seguridad%20%26%20Automatizaci%C3%B3n;%E2%98%95%20Transformando%20desaf%C3%ADos%20complejos%20en%20c%C3%B3digo%20limpio" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -32,12 +32,16 @@
 
 <p align="center">
   <b>🔥 Core Stack & Lenguajes</b><br/>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,cs,cpp,java&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,python,cs,cpp,java,c,bash&perline=10&theme=dark" />
 </p>
 
 <p align="center">
-  <b>⚙️ Backend & Frameworks</b><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql,postman&perline=7&theme=dark" />
+  <b>⚙️ Backend, Go Frameworks & APIs</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql,postman&perline=7&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Go_Fiber-00ACD7?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go_Gin-0081C9?style=flat-square&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ORM-GORM_%7C_Prisma_%7C_TypeORM-7928CA?style=flat-square&logo=prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_Client-Bruno_%7C_Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -46,13 +50,15 @@
 </p>
 
 <p align="center">
-  <b>☁️ Cloud, DevOps & Linux Security</b><br/>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,kali,arch,git,github&perline=8&theme=dark" />
+  <b>☁️ Cloud, Kubernetes, DevOps & Servidores Linux</b><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,linux,ubuntu,kali,arch,bash,git,github&perline=10&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/CLI_Tools-Bash_%7C_Nano_%7C_Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infra-VPS_%7C_CI%2FCD_%7C_K8s_Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 </p>
 
 <p align="center">
-  <b>✨ Frontend & Mobile Habilidades</b><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,sass,flutter,android,kotlin,figma&perline=9&theme=dark" />
+  <b>📱 Mobile & Frontend Ecosystem</b><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap,sass,kotlin,androidstudio,figma&perline=9&theme=dark" />
 </p>
 
 </div>
@@ -63,11 +69,11 @@
 
 <div align="center">
 
-| 🏗️ **Arquitectura Backend** | ⚡ **Tiempo Real & Conectividad** | 🛡️ **Seguridad & DevOps** |
+| 🏗️ **Arquitectura Backend & Go** | ☁️ **Kubernetes, DevOps & Linux** | 📱 **Mobile & Multiplataforma** |
 |:---:|:---:|:---:|
-| Microservicios escalables, APIs RESTful & GraphQL de alta eficiencia | WebSockets, mensajería reactiva y procesamiento concurrente | Infraestructura Linux VPS, Dockerización & CI/CD Pipelines |
-| 🗄️ **Optimización de Datos** | 🚀 **Desarrollo MVP & Startups** | 📱 **Multiplataforma** |
-| Modelado avanzado SQL/NoSQL, Caché con Redis y queries optimizadas | Prototipado veloz de extremo a extremo y arquitectura cloud | Apps nativas & híbridas con Flutter, React Native y Kotlin |
+| Microservicios de alto rendimiento con **Go (Fiber, Gin, GORM)**, Rust, NestJS y Node.js | Orquestación con **Kubernetes (K8s)**, Docker, Servidores Linux (Bash/Nano) & VPS | Aplicaciones móviles fluidas con **Flutter**, React Native y desarrollo nativo con Kotlin |
+| 🗄️ **Bases de Datos & ORMs** | ⚡ **Tiempo Real & Conectividad** | 🛡️ **Seguridad & Testing APIs** |
+| Modelado SQL/NoSQL, Caché con Redis y ORMs avanzados (GORM, Prisma, TypeORM) | WebSockets, Event-Driven Architecture y procesamiento asíncrono | Testing robusto con **Bruno & Postman**, auditorías Linux y entornos seguros |
 
 </div>
 

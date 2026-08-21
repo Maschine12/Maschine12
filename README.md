@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Header Animado Neon / Synthwave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,40:302b63,70:7928ca,100:00f5d4&text=Richard%20Bruno&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Backend%20%7C%20Cloud%20Infra%20%7C%20Database%20Architect&descAlignY=58&descSize=21&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,40:302b63,70:7928ca,100:00f5d4&text=Richard%20Bruno&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Junior%20Full-Stack%20%26%20Backend%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=21&animation=twinkling" width="100%"/>
 
 <!-- Subtítulo Dinámico Typing SVG -->
 <a href="https://github.com/Maschine12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80%20Senior%20Backend%20%26%20Cloud%20Infra%20Engineer;%E2%9A%A1%20Construyendo%20sistemas%20distribuidos%20de%20alta%20escala;%F0%9F%9B%A1%EF%B8%8F%20Linux%20Kernel%2C%20Seguridad%20%26%20Automatizaci%C3%B3n;%E2%98%95%20Transformando%20desaf%C3%ADos%20complejos%20en%20c%C3%B3digo%20limpio" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=🌱+Junior+Full-Stack+%26+Backend+Developer;🚀+Aprendiendo+activamente+Go,+Rust+%26+Cloud+Native;🐙+Manejo+de+Git,+GitHub,+Ramas+%26+FileServers;💻+Construyendo+en+VS+Code+%26+Terminal+Linux" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
 <!-- Badges de Estado / Highlights Visuales -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Building_Scalable_Systems-7928CA?style=for-the-badge&logo=rocket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Distributed_Architecture-00F5D4?style=for-the-badge&logo=databricks&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OS-Arch_Linux_%7C_Ubuntu-FF007F?style=for-the-badge&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Level-Junior_Developer_🌱-7928CA?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Workflow-Git_%26_GitHub_Flow-00F5D4?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code_%7C_Terminal-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <b>⚙️ Backend, Go Frameworks & APIs</b><br/>
+  <b>⚙️ Backend, Frameworks & APIs</b><br/>
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql,postman&perline=7&theme=dark" /><br/>
   <img src="https://img.shields.io/badge/Go_Fiber-00ACD7?style=flat-square&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go_Gin-0081C9?style=flat-square&logo=go&logoColor=white"/>
@@ -45,15 +45,24 @@
 </p>
 
 <p align="center">
-  <b>🗄️ Bases de Datos & Almacenamiento</b><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma&perline=6&theme=dark" />
+  <b>💻 Entorno de Desarrollo, Terminal & Control de Versiones</b><br/>
+  <img src="https://skillicons.dev/icons?i=vscode,bash,powershell,git,github&perline=5&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terminal-Bash_%7C_Nano_%7C_Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Version_Control-Git_%26_GitHub_Manejo-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Storage-FileServer_%7C_FTP_%7C_SFTP-FFB800?style=flat-square&logo=serverfault&logoColor=black"/>
 </p>
 
 <p align="center">
-  <b>☁️ Cloud, Kubernetes, DevOps & Servidores Linux</b><br/>
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,linux,ubuntu,kali,arch,bash,git,github&perline=10&theme=dark" /><br/>
-  <img src="https://img.shields.io/badge/CLI_Tools-Bash_%7C_Nano_%7C_Zsh-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infra-VPS_%7C_CI%2FCD_%7C_K8s_Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <b>☁️ Cloud, Servidores, Docker & Linux</b><br/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,linux,ubuntu,kali,arch&perline=7&theme=dark" /><br/>
+  <img src="https://img.shields.io/badge/Servidores-Linux_VPS_%7C_FileServers_%7C_Nginx-326CE5?style=flat-square&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Contenedores-Docker_%7C_Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+</p>
+
+<p align="center">
+  <b>🗄️ Bases de Datos & Almacenamiento</b><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,prisma&perline=6&theme=dark" />
 </p>
 
 <p align="center">
@@ -65,15 +74,15 @@
 
 ---
 
-### 💎 `// ESPECIALIDADES & SUPERPODERES`
+### 💎 `// ESPECIALIDADES & ÁREAS DE ENFOQUE (JUNIOR)`
 
 <div align="center">
 
-| 🏗️ **Arquitectura Backend & Go** | ☁️ **Kubernetes, DevOps & Linux** | 📱 **Mobile & Multiplataforma** |
+| 🏗️ **Backend & Go Ecosystem** | 🐙 **Git, GitHub & FileServers** | 💻 **VS Code & Terminal Linux** |
 |:---:|:---:|:---:|
-| Microservicios de alto rendimiento con **Go (Fiber, Gin, GORM)**, Rust, NestJS y Node.js | Orquestación con **Kubernetes (K8s)**, Docker, Servidores Linux (Bash/Nano) & VPS | Aplicaciones móviles fluidas con **Flutter**, React Native y desarrollo nativo con Kotlin |
-| 🗄️ **Bases de Datos & ORMs** | ⚡ **Tiempo Real & Conectividad** | 🛡️ **Seguridad & Testing APIs** |
-| Modelado SQL/NoSQL, Caché con Redis y ORMs avanzados (GORM, Prisma, TypeORM) | WebSockets, Event-Driven Architecture y procesamiento asíncrono | Testing robusto con **Bruno & Postman**, auditorías Linux y entornos seguros |
+| Creación de APIs y lógica backend con **Node.js, NestJS, Go (Fiber, Gin, GORM)** y Rust | Control de versiones con **Git & GitHub**, gestión de ramas y configuración de **FileServers (FTP/SFTP)** | Productividad en **VS Code**, automatización en **Bash/Nano** y despliegue con Docker |
+| 🗄️ **Bases de Datos & ORMs** | 📱 **Frontend & Mobile (Flutter)** | 🛡️ **Servidores & Testing de APIs** |
+| Prácticas de modelado SQL/NoSQL con Postgres, Mongo, Prisma y GORM | Interfaces modernas con React, Tailwind y apps móviles con Flutter | Consumo y pruebas de APIs con **Bruno & Postman**, y servidores Linux |
 
 </div>
 

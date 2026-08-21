@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Animado Neon / Synthwave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,40:302b63,70:7928ca,100:00f5d4&text=Richard%20Bruno&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Junior%20Full-Stack%20%26%20Backend%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=21&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,40:302b63,70:7928ca,100:00f5d4&text=Richard%20Bruno&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Junior%20Full-Stack%20%2F%20Backend%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=21&animation=twinkling" width="100%"/>
 
 <!-- Subtítulo Dinámico Typing SVG -->
 <a href="https://github.com/Maschine12">

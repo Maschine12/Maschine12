@@ -109,16 +109,16 @@ Encantado de trabajar en nuevos retos y comunidad cloud.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maschine12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Maschine12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Maschine12&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maschine12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" width="60%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Maschine12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" width="60%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Maschine12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+  <img src="https://github-trophies.devomb.com/?username=Maschine12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </p>
 
 ---

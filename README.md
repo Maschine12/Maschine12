@@ -1,15 +1,29 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=Richard%20Bruno&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Backend%20%7C%20Infra%20%7C%20Databases&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Maschine12">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+Infra+enthusiast;Construyendo+sistemas+que+escalan;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Maschine12&color=A970FF&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Maschine12?label=FOLLOWERS&style=for-the-badge&color=A970FF&logo=github"/>
+</p>
+
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h1>👋 Hola, soy Richard Bruno</h1>
+    <td width="55%" valign="top">
       <p>
         Desarrollador full-stack con enfoque en <strong>backend, infraestructura y bases de datos</strong>. 
         Apoyo a startups construyendo sistemas escalables y soluciones técnicas robustas.
         Encantado de trabajar en nuevos retos y comunidad cloud.
       </p>
     </td>
-    <td width="50%" align="center">
-      <img src="https://media.tenor.com/ZqghJjHiZJwAAAAj/dudu-working-computer.gif" width="300"/>
+    <td width="45%" align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84ba2a8-2b04-4e3b-93ca-ac14705da224.gif" width="320"/>
     </td>
   </tr>
 </table>
@@ -148,11 +162,44 @@
 
 **Parrot OS • Ubuntu • Kali Linux • Arch Linux**
 
+<img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="140"/>
+
 </td>
 
 </tr>
 
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Maschine12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maschine12&theme=tokyonight&hide_border=true&background=0d1117" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maschine12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=10" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Maschine12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+</p>
+
+---
+
+## 🐍 Actividad de contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maschine12/Maschine12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maschine12/Maschine12/output/github-contribution-grid-snake.svg">
+    <img alt="snake gif" src="https://raw.githubusercontent.com/Maschine12/Maschine12/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
+</p>
+
+<p align="center"><sub>Generado automáticamente por GitHub Actions a partir del gráfico de contribuciones.</sub></p>
 
 ---
 
@@ -186,4 +233,8 @@
 
 <p align="center">
   <i>Construyendo sistemas que escalan, resolviendo problemas que importan.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%"/>
 </p>

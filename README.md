@@ -1,20 +1,20 @@
 <div align="center">
 
-<!-- Header Animado Neon / Synthwave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,40:302b63,70:7928ca,100:00f5d4&text=Richard%20Bruno&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Junior%20Full-Stack%20%2F%20Backend%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=58&descSize=21&animation=twinkling" width="100%"/>
+<!-- Header Animado Neon / Synthwave (no usar "&" literal en desc: rompe el SVG) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0c29,40:302b63,70:7928ca,100:00f5d4&text=Richard%20Bruno&fontColor=ffffff&fontSize=62&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20Backend%20Go%20%C2%B7%20Node.js%20%7C%20Docker%20%C2%B7%20Kubernetes&descAlignY=58&descSize=21&animation=twinkling" width="100%"/>
 
 <!-- Subtítulo Dinámico Typing SVG -->
 <a href="https://github.com/Maschine12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%F0%9F%8C%B1%20Junior%20Full-Stack%20%26%20Backend%20Developer;%F0%9F%9A%80%20Aprendiendo%20activamente%20Go%2C%20Rust%20%26%20Cloud%20Native;%F0%9F%90%99%20Manejo%20de%20Git%2C%20GitHub%2C%20Ramas%20%26%20FileServers;%F0%9F%92%BB%20Construyendo%20en%20VS%20Code%20%26%20Terminal%20Linux" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=650&lines=%F0%9F%92%BB%20Full-Stack%20Developer%20%7C%20Go%20%C2%B7%20Node.js%20%C2%B7%20TypeScript;%E2%9A%99%EF%B8%8F%20APIs%20REST%20con%20Go%20(Fiber%2FGin)%20y%20NestJS;%F0%9F%90%B3%20Despliegues%20con%20Docker%20y%20Kubernetes;%F0%9F%90%A7%20Linux%20%C2%B7%20Nginx%20%C2%B7%20PostgreSQL%20%C2%B7%20Redis" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- Badges de Estado / Highlights Visuales -->
+<!-- Badges de Estado -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Level-Junior_Developer_🌱-7928CA?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Workflow-Git_%26_GitHub_Flow-00F5D4?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code_%7C_Terminal-FF007F?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend_%26_Cloud-7928CA?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deploy-Docker_%7C_Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open_to-Backend_%7C_Full--Stack_roles-00F5D4?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </p>
 
 <p align="center">
@@ -26,69 +26,61 @@
 
 ---
 
-### 🛸 `// TECH ARSENAL & SKILLS MATRIX`
+### 👨‍💻 `// SOBRE MÍ`
 
-<div align="center">
-
-<!-- Lenguajes Principales -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,go,ts,js,python,cs,cpp,c,java,bash&perline=10&theme=dark" />
-</p>
-
-<!-- Backend & APIs -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,django,graphql,postman,prisma&perline=8&theme=dark" />
-</p>
-
-<!-- Frameworks Go, ORMs & Testing con logos oficiales -->
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gin-0081C9?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bruno-F89520?style=for-the-badge&logo=postman&logoColor=white"/></a>
-</p>
-
-<!-- Cloud, Servidores, Linux & Contenedores -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,docker,nginx,linux,ubuntu,arch,kali,debian,powershell&perline=9&theme=dark" />
-</p>
-
-<!-- Herramientas, Entorno & Storage con Logos -->
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash_Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GNU_Nano-000000?style=for-the-badge&logo=gnu&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub_Flow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/FileServer_FTP-FF8800?style=for-the-badge&logo=serverfault&logoColor=white"/></a>
-</p>
-
-<!-- Bases de Datos & Caché -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite&perline=5&theme=dark" />
-</p>
-
-<!-- Frontend, Mobile & UI -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,kotlin,react,nextjs,tailwind,bootstrap,sass,figma,vite&perline=10&theme=dark" />
-</p>
-
-</div>
+- 🛠️ Desarrollo aplicaciones **de punta a punta**: APIs en **Go** y **Node.js/NestJS**, frontend en **React/Next.js** y bases de datos **PostgreSQL**.
+- 🐳 Llevo mis proyectos a producción con **Docker**, **Kubernetes**, **Nginx** y servidores **Linux (Ubuntu VPS)**.
+- 🔀 Trabajo con **Git / GitHub Flow**: ramas, pull requests y code review.
+- 🎯 Busco roles **Backend o Full-Stack** donde pueda construir sistemas que escalen.
 
 ---
 
-### ⚡ `// WORKSPACE & WORKFLOW (100% VISUAL)`
+### 🛸 `// STACK PRINCIPAL`
 
 <div align="center">
 
+<!-- Lenguajes y Backend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Server-Ubuntu_VPS-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Containers-Docker_K8s-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Storage-FileServers_SFTP-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Code-Go_Fiber_Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=go,ts,js,nodejs,nestjs,express,react,nextjs&perline=8&theme=dark" />
+</p>
+
+<!-- Frameworks Go & ORM -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gin-0081C9?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GORM-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+<!-- Datos, Cloud & Infra -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,docker,kubernetes,nginx,linux,bash,git&perline=8&theme=dark" />
 </p>
 
 </div>
+
+<details>
+<summary><b>🧰 También he trabajado con</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,django,rust,java,cs,cpp,flutter,kotlin,mongodb,mysql,sqlite,graphql,tailwind,postman,figma&perline=8&theme=dark" />
+</p>
+
+</details>
+
+---
+
+### 🚀 `// PROYECTOS DESTACADOS`
+
+<!--
+  Agrega aquí 2-4 proyectos con la fórmula: qué hace + stack + resultado.
+  Ejemplo:
+  - **[nombre-repo](https://github.com/Maschine12/nombre-repo)** — API de X en Go (Fiber + GORM) con PostgreSQL,
+    desplegada en Kubernetes con Nginx como ingress.
+-->
+
+> 📌 Revisa mis repositorios fijados abajo 👇
 
 ---
 

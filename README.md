@@ -50,9 +50,9 @@
 | 💾 **Réplica y backup de archivos** | Réplica de documentos institucionales entre sedes y sede central, desplegada con GitOps, con runbooks de backup y restauración y procesador de backups propio en **Rust** (MinIO → zstd → SFTP). | k3s · Kustomize · ArgoCD · Kyverno · WireGuard · MinIO · Rust · GitHub Actions |
 | 🔑 **[Intranet, SSO e interoperabilidad](https://intranet.regionayacucho.gob.pe/)** | Portal único con inicio de sesión institucional, bus de eventos entre sistemas y API de interoperabilidad entre instituciones con JWT + API keys y auditoría. | Go · Zitadel OIDC · Astro · Kafka (SASL/SCRAM, ACLs) · Gin |
 
-| 🛟 **[GLPI](https://glpi.regionayacucho.gob.pe/)** | Implementé y desplegué la mesa de ayuda e inventario de TI de la institución. | GLPI · MariaDB · Docker · Traefik · Nginx |
+| 🛟 **[GLPI](https://glpi.regionayacucho.gob.pe/)** | Implementé y desplegué la mesa de ayuda e inventario de TI de la institución. | GLPI · MariaDB · Docker · Nginx |
 
-<sub>Todos los sistemas corren en <b>Docker</b> detrás de <b>Traefik</b> y <b>Nginx</b>. También contribuí en <b>SIDWARI</b> (gestión documental con firma digital), <b>Escalafón</b> (RR.HH.) y el repositorio documental de <b>Recursos Naturales</b>. La mayoría de estos repositorios son privados de la institución.</sub>
+<sub>Los sistemas corren en <b>Docker</b> detrás de <b>Traefik</b> (GLPI detrás de <b>Nginx</b>). También contribuí en <b>SIDWARI</b> (gestión documental con firma digital), <b>Escalafón</b> (RR.HH.) y el repositorio documental de <b>Recursos Naturales</b>. La mayoría de estos repositorios son privados de la institución.</sub>
 
 ---
 
